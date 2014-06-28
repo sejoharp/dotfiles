@@ -9,4 +9,5 @@ alias gm='git merge '
 alias gl='git log '
 alias gt='git log --graph --oneline '
 alias gta='git log --graph --oneline --all'
+alias gp='git push '
 
